@@ -28,7 +28,7 @@ saves=[]
 descs=[]
 infos=[]
 i=0
-#
+#l
 while True:
     i+=1
     if i==10:
